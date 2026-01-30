@@ -1,0 +1,440 @@
+club_id,name,domestic_competition_id
+3,1.FC Köln,L1
+4,1.FC Nuremberg,L1
+5,Associazione Calcio Milan,IT1
+6,Adanaspor,TR1
+10,Arminia Bielefeld,L1
+11,Arsenal Football Club,GB1
+12,Associazione Sportiva Roma,IT1
+13,Club Atlético de Madrid S.A.D.,ES1
+15,Bayer 04 Leverkusen Fußball,L1
+16,Borussia Dortmund,L1
+18,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+19,Brescia Calcio,IT1
+20,Bursaspor,TR1
+23,Eintracht Braunschweig,L1
+24,Eintracht Frankfurt Fußball AG,L1
+27,FC Bayern München,L1
+29,Everton Football Club,GB1
+31,Liverpool Football Club,GB1
+33,FC Schalke 04,L1
+35,Fußball-Club St. Pauli von 1910,L1
+36,Fenerbahçe Spor Kulübü,TR1
+38,Fortuna Düsseldorf,L1
+39,1. Fußball- und Sportverein Mainz 05,L1
+40,FC Girondins Bordeaux,FR1
+41,Hamburger SV,L1
+42,Hannover 96,L1
+43,Heart of Midlothian Football Club,SC1
+44,Hertha BSC,L1
+46,Football Club Internazionale Milano S.p.A.,IT1
+47,Iraklis Thessaloniki,GR1
+58,Royal Sporting Club Anderlecht,BE1
+60,Sport-Club Freiburg,L1
+65,SpVgg Greuther Fürth,L1
+79,Verein für Bewegungsspiele Stuttgart 1893,L1
+80,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,L1
+82,Verein für Leibesübungen Wolfsburg,L1
+86,Sportverein Werder Bremen von 1899,L1
+89,1. Fußballclub Union Berlin,L1
+105,SV Darmstadt 98,L1
+114,Beşiktaş Jimnastik Kulübü,TR1
+121,FK Dinamo Moskva,RU1
+124,Rangers Football Club,SC1
+126,Çaykur Rizespor Kulübü,TR1
+127,SC Paderborn 07,L1
+128,AO Xanthi,GR1
+130,Parma Calcio 1913,IT1
+131,Futbol Club Barcelona,ES1
+132,Nooit Opgeven Altijd Doorzetten Aangenaam Door Vermaak En Nuttig Door Ontspanning Combinatie Breda,NL1
+133,SC Cambuur Leeuwarden,NL1
+141,Galatasaray Spor Kulübü,TR1
+142,Real Zaragoza,ES1
+148,Tottenham Hotspur Football Club,GB1
+150,Real Betis Balompié S.A.D.,ES1
+152,Samsunspor,TR1
+157,Koninklijke Atletiek Associatie Gent,BE1
+162,Association sportive de Monaco Football Club,FR1
+167,Fußball-Club Augsburg 1907,L1
+169,Panionios Athens,GR1
+172,Royal Charleroi Sporting Club,BE1
+173,Odense Boldklub,DK1
+180,Southampton Football Club,GB1
+190,Football Club København,DK1
+192,Roda JC Kerkrade,NL1
+200,Football Club Utrecht,NL1
+202,Football Club Groningen,NL1
+204,Lierse SK (- 2018),BE1
+206,Brøndby Idrætsforening,DK1
+232,FK Spartak Moskva,RU1
+234,Feyenoord Rotterdam,NL1
+235,Rooms Katholieke Combinatie Waalwijk,NL1
+237,Real Club Deportivo Mallorca S.A.D.,ES1
+244,Olympique de Marseille,FR1
+252,Genoa Cricket and Football Club,IT1
+265,Panathinaikos Athlitikos Omilos,GR1
+269,Kieler Sportvereinigung Holstein von 1900,L1
+273,Stade Rennais Football Club,FR1
+276,Verona Hellas Football Club,IT1
+281,Manchester City Football Club,GB1
+289,Sunderland AFC,GB1
+290,Association de la Jeunesse auxerroise,FR1
+294,Sport Lisboa e Benfica,PO1
+306,Sportclub Heerenveen,NL1
+317,Football Club Twente,NL1
+331,Club Atlético Osasuna,ES1
+336,Sporting Clube de Portugal,PO1
+338,Futbolniy Klub Dynamo Kyiv,UKR1
+339,Dnipro Dnipropetrovsk (-2020),UKR1
+347,FC Metz,FR1
+350,Sheffield United,GB1
+354,Yellow-Red Koninklijke Voetbalclub Mechelen,BE1
+366,Real Valladolid Club de Fútbol S.A.D.,ES1
+367,Rayo Vallecano de Madrid S.A.D.,ES1
+368,Sevilla Fútbol Club S.A.D.,ES1
+369,Lyngby Boldklubben af 1921,DK1
+370,Aberdeen Football Club,SC1
+371,The Celtic Football Club,SC1
+379,West Ham United Football Club,GB1
+380,US Salernitana 1919,IT1
+383,Eindhovense Voetbalvereniging Philips Sport Vereniging,NL1
+385,Fortuna Sittardia Combinatie,NL1
+398,Società Sportiva Lazio S.p.A.,IT1
+399,Leeds United,GB1
+403,Willem II,NL1
+405,Aston Villa Football Club,GB1
+410,Udinese Calcio,IT1
+415,Toulouse Football Club,FR1
+416,Torino Calcio,IT1
+417,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+418,Real Madrid Club de Fútbol,ES1
+430,Associazione Calcio Fiorentina,IT1
+441,Apollon Smyrnis,GR1
+443,Vejle Boldklub,DK1
+449,Trabzonspor Kulübü,TR1
+458,Palermo FC,IT1
+465,Saint Mirren Football Club,SC1
+467,Nijmegen Eendracht Combinatie,NL1
+468,Sparta Rotterdam,NL1
+472,Unión Deportiva Las Palmas S.A.D.,ES1
+475,Koninklijke Sint-Truidense Voetbalvereniging,BE1
+498,KSC Lokeren (- 2020),BE1
+499,Vitesse Arnhem,NL1
+506,Juventus Football Club,IT1
+511,Dundee Football Club,SC1
+512,Stoke City,GB1
+520,Cercle Brugge Koninklijke Sportvereniging,BE1
+524,Gaziantepspor (- 2020),TR1
+533,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,L1
+543,Wolverhampton Wanderers Football Club,GB1
+553,Ionikos Nikeas,GR1
+566,Beerschot AC,BE1
+583,Paris Saint-Germain Football Club,FR1
+589,Antalyaspor,TR1
+595,SC Bastia,FR1
+601,Koninklijke Voetbalclub Kortrijk,BE1
+603,Cardiff City,GB1
+605,Aris Thessalonikis,GR1
+607,Venezia Football Club,IT1
+610,AFC Ajax Amsterdam,NL1
+618,Association sportive de Saint-Étienne Loire,FR1
+621,Athletic Club Bilbao,ES1
+631,Chelsea Football Club,GB1
+641,Middlesbrough FC,GB1
+642,De Graafschap Doetinchem,NL1
+653,Omilos Filathlon Irakliou FC,GR1
+660,FC Shakhtar Donetsk,UKR1
+667,Racing Club de Strasbourg Alsace,FR1
+677,Ipswich Town Football Club,GB1
+678,Aarhus Gymnastik Forening,DK1
+681,Real Sociedad de Fútbol S.A.D.,ES1
+683,Olympiakos Syndesmos Filathlon Peiraios,GR1
+703,Nottingham Forest Football Club,GB1
+714,Reial Club Deportiu Espanyol de Barcelona S.A.D.,ES1
+720,Futebol Clube do Porto,PO1
+723,Almere City Football Club,NL1
+724,FC Volendam,NL1
+738,Le Havre Athletic Club,FR1
+749,Empoli Football Club S.r.l.,IT1
+750,FC Sochaux-Montbéliard,FR1
+762,Newcastle United Football Club,GB1
+798,Excelsior Rotterdam,NL1
+800,Atalanta Bergamasca Calcio S.p.a.,IT1
+820,Genclerbirligi Ankara,TR1
+825,Eskisehirspor,TR1
+826,Racing Club de Lens,FR1
+833,Denizlispor,TR1
+855,EA Guingamp,FR1
+862,Chievo Verona,IT1
+865,Fodbold Club Midtjylland,DK1
+868,MKE Ankaragücü,TR1
+873,Crystal Palace Football Club,GB1
+897,Deportivo de La Coruña,ES1
+903,Hibernian Football Club,SC1
+924,Istanbulspor,TR1
+931,Fulham Football Club,GB1
+932,"Футбольный клуб ""Локомотив"" Москва",RU1
+940,Real Club Celta de Vigo S. A. D.,ES1
+964,AO FK Zenit Sankt-Peterburg,RU1
+968,Koninklijke Voetbal Club Westerlo,BE1
+969,Montpellier Hérault Sport Club,FR1
+976,CF União Madeira (-2021),PO1
+979,Moreirense Futebol Clube,PO1
+982,Clube Desportivo Nacional,PO1
+984,West Bromwich Albion,GB1
+985,Manchester United Football Club,GB1
+987,Motherwell Football Club,SC1
+989,Association Football Club Bournemouth,GB1
+993,Córdoba CF,ES1
+995,Football Club de Nantes,FR1
+1003,Leicester City Football Club,GB1
+1005,Unione Sportiva Lecce,IT1
+1010,Watford FC,GB1
+1025,Bologna Football Club 1909,IT1
+1031,Luton Town,GB1
+1032,Reading FC,GB1
+1038,UC Sampdoria,IT1
+1039,Queens Park Rangers,GB1
+1041,Olympique Lyonnais,FR1
+1047,Calcio Como,IT1
+1049,Valencia Club de Fútbol S. A. D.,ES1
+1050,Villarreal Club de Fútbol S.A.D.,ES1
+1053,Aalborg Boldspilklub,DK1
+1063,Viborg Fodsports Forening,DK1
+1071,Wigan Athletic,GB1
+1075,Sporting Clube de Braga,PO1
+1082,Lille Olympique Sporting Club,FR1
+1083,FK Rostov,RU1
+1084,Málaga CF,ES1
+1085,Vitória Setúbal FC,PO1
+1090,Alkmaar Zaanstreek,NL1
+1091,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,GR1
+1095,ESTAC Troyes,FR1
+1096,Royal Antwerp Football Club,BE1
+1108,Deportivo Alavés S.A.D.,ES1
+1110,Huddersfield Town,GB1
+1123,Norwich City,GB1
+1124,FK Fakel Voronezh,RU1
+1132,Burnley FC,GB1
+1147,AC Ajaccio,FR1
+1148,Brentford Football Club,GB1
+1158,FC Lorient,FR1
+1159,AS Nancy-Lorraine,FR1
+1160,Nîmes Olympique,FR1
+1162,SM Caen,FR1
+1177,Silkeborg Idrætsforening,DK1
+1184,Koninklijke Racing Club Genk,BE1
+1186,Torpedo Moscow,RU1
+1210,US Livorno 1915,IT1
+1237,Brighton and Hove Albion Football Club,GB1
+1241,Livingston FC,SC1
+1244,Club Deportivo Leganés S.A.D.,ES1
+1245,KAS Eupen,BE1
+1268,ADO Den Haag,NL1
+1269,Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle,NL1
+1283,FC Emmen,NL1
+1301,CS Marítimo,PO1
+1304,Heracles Almelo,NL1
+1387,Siena FC,IT1
+1390,Cagliari Calcio,IT1
+1411,RAEC Mons (- 2015),BE1
+1416,Amiens SC,FR1
+1420,Angers Sporting Club de l'Ouest,FR1
+1421,Stade de Reims,FR1
+1423,Valenciennes FC,FR1
+1426,VVV-Venlo,NL1
+1429,Cesena FC,IT1
+1435,Go Ahead Eagles,NL1
+1436,SC Beira-Mar,PO1
+1455,FC Dordrecht,NL1
+1465,Grupo Desportivo Estoril Praia,PO1
+1467,Göztepe Sportif Yatırımlar A.Ş.,TR1
+1506,Kardemir Karabükspor,TR1
+1519,Dundee United Football Club,SC1
+1531,Elche CF,ES1
+1533,SD Eibar,ES1
+1627,Catania FC,IT1
+1894,Hvidovre IF,DK1
+2036,1. Fußballclub Heidenheim 1846,L1
+2079,Veria NPS,GR1
+2227,SK Tavriya Simferopol ( - 2022),UKR1
+2239,US Cremonese,IT1
+2282,Club Brugge Koninklijke Voetbalvereniging,BE1
+2288,Swansea City,GB1
+2292,Elazigspor,TR1
+2293,Konyaspor,TR1
+2323,Orduspor,TR1
+2375,Altay SK,TR1
+2381,Sivasspor Kulübü,TR1
+2410,PFK CSKA Moskva,RU1
+2414,AC Horsens,DK1
+2420,Vitória Sport Clube,PO1
+2423,Clube Desportivo Santa Clara,PO1
+2424,Gil Vicente Futebol Clube,PO1
+2425,Rio Ave Futebol Clube,PO1
+2431,Club Football Estrela da Amadora,PO1
+2439,Kuban Krasnodar (-2018),RU1
+2441,Athlitiki Enosi Konstantinoupoleos,GR1
+2448,Sporting Gijón,ES1
+2451,Inverness Caledonian Thistle FC,SC1
+2457,B SAD,PO1
+2477,Karpaty Lviv (-2021),UKR1
+2503,Boavista Futebol Clube,PO1
+2553,Kilmarnock Football Club,SC1
+2578,Saint Johnstone Football Club,SC1
+2671,PAS Giannina,GR1
+2672,APO Levadiakos Football Club,GR1
+2687,Cádiz CF,ES1
+2696,PFK Krylya Sovetov Samara,RU1
+2698,FC Rubin Kazan,RU1
+2700,Anzhi Makhachkala ( -2022),RU1
+2703,Spartak Vladikavkaz (-2020),RU1
+2715,RFC Seraing,BE1
+2722,SPAL,IT1
+2727,Oud-Heverlee Leuven,BE1
+2740,Vorskla Poltava,UKR1
+2741,Baltika Kaliningrad,RU1
+2759,Ross County Football Club,SC1
+2760,Partick Thistle FC,SC1
+2778,Fodbold Club Nordsjælland,DK1
+2783,Metalurg Donetsk (- 2015),UKR1
+2832,Gaziantep Futbol Kulübü A.Ş.,TR1
+2861,KV Oostende,BE1
+2919,Associazione Calcio Monza,IT1
+2921,Delfino Pescara 1936,IT1
+2944,Ankaraspor,TR1
+2969,Dijon FCO,FR1
+2990,Académica Coimbra,PO1
+2995,FC Paços de Ferreira,PO1
+2999,Hamilton Academical FC,SC1
+3008,Hull City,GB1
+3057,Royal Standard Club de Liège,BE1
+3060,APS Atromitos Athinon,GR1
+3062,Athens Kallithea Football Club,GR1
+3205,Kayserispor Kulübü,TR1
+3209,Pendikspor,TR1
+3216,Mersin Talimyurdu SK,TR1
+3268,Casa Pia Atlético Clube,PO1
+3302,UD Almería,ES1
+3325,GD Chaves,PO1
+3327,FC Penafiel,PO1
+3329,Futebol Clube de Famalicão,PO1
+3336,Desportivo Aves (- 2020),PO1
+3349,CD Feirense,PO1
+3368,Levante UD,ES1
+3385,Panserraikos Serres,GR1
+3426,Esbjerg fB,DK1
+3508,SV Zulte Waregem,BE1
+3522,Spezia Calcio,IT1
+3524,Clermont Foot 63,FR1
+3558,GFC Ajaccio,FR1
+3592,FK Kryvbas Kryvyi Rig,UKR1
+3609,Rotor Volgograd,RU1
+3690,SKA Khabarovsk,RU1
+3691,Tom Tomsk,RU1
+3709,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+3714,Enisey Krasnoyarsk,RU1
+3719,FK Khimki,RU1
+3725,RFK Akhmat Grozny,RU1
+3729,Arsenal Tula,RU1
+3840,Adana Demirspor Kulübü,TR1
+3911,Stade brestois 29,FR1
+3948,Royale Union Saint-Gilloise,BE1
+3999,PAS Lamia 1964,GR1
+4083,FC Crotone,IT1
+4102,AC Carpi,IT1
+4128,Amkar Perm,RU1
+4171,Benevento Calcio,IT1
+4294,Sporting Clube Farense,PO1
+4482,Volyn Lutsk,UKR1
+4603,AE Larisa,GR1
+4750,SC Olhanense,PO1
+4795,FC Ingolstadt 04,L1
+5219,AOK Kerkyra,GR1
+5220,GS Ergotelis,GR1
+5358,SD Huesca,ES1
+5572,Niki Volou,GR1
+5724,Randers Fodbold Club,DK1
+5817,Sønderjyske Fodbold,DK1
+5818,Hobro IK,DK1
+6195,Società Sportiva Calcio Napoli,IT1
+6414,Metalist Kharkiv (- 2016),UKR1
+6418,Panetolikos Agrinio,GR1
+6574,US Sassuolo,IT1
+6646,Fatih Karagümrük,TR1
+6676,A.G.S Asteras Tripolis,GR1
+6890,İstanbul Başakşehir Futbol Kulübü,TR1
+6894,Kayseri Erciyesspor,TR1
+6912,FC Vizela,PO1
+6992,ZAO FK Chornomorets Odessa,UKR1
+6993,FK Mariupol,UKR1
+6994,Metalurg Zaporizhya (-2016),UKR1
+6996,Goverla Uzhgorod (- 2016),UKR1
+7160,Eyüp Spor Kulübü,TR1
+7179,CD Tondela,PO1
+7185,Panthrakikos Komotini,GR1
+7378,Portimonense SC,PO1
+7775,Hatayspor Futbol Kulübü,TR1
+8024,Futebol Clube de Arouca,PO1
+8838,Zirka Kropyvnytskyi,UKR1
+8970,Frosinone Calcio,IT1
+9007,Arsenal Kyiv,UKR1
+9010,FC Verbroedering Denderhoutem Denderleeuw Eendracht Hekelgem,BE1
+10484,Kasımpaşa Spor Kulübü,TR1
+10690,FC Zorya Lugansk,UKR1
+11126,Mordovia Saransk (-2020),RU1
+11127,Ural Yekaterinburg,RU1
+11282,Alanyaspor,TR1
+11688,Giresunspor,TR1
+12321,Girona Fútbol Club S. A. D.,ES1
+12438,Volga Nizhniy Novgorod (- 2016),RU1
+14171,Thonon Évian Grand Genève FC,FR1
+14589,FC Orenburg,RU1
+16239,Desna Chernigiv,UKR1
+16245,FK Sevastopol (- 2014),UKR1
+16247,PFK Stal Kamyanske (-2018),UKR1
+16704,FK Krasnodar,RU1
+16795,Granada CF,ES1
+18105,PFK Lviv,UKR1
+18303,FC Oleksandriya,UKR1
+19657,Vendsyssel FF,DK1
+19771,Akhisarspor,TR1
+19789,Yeni Malatyaspor,TR1
+20100,FC Vestsjaelland,DK1
+20698,Balikesirspor,TR1
+21957,AO Platanias,GR1
+22110,FC Helsingör,DK1
+23611,Olimpik Donetsk,UKR1
+23826,RasenBallsport Leipzig,L1
+24245,Ümraniyespor,TR1
+26459,NK Veres Rivne,UKR1
+28095,FK Ufa,RU1
+28643,SK Beveren,BE1
+28956,AEL Kalloni,GR1
+29228,Royal Excel Mouscron (-2022),BE1
+30120,AE Kifisias,GR1
+39097,FK Obolon Kyiv,UKR1
+39722,Erzurumspor FK,TR1
+40426,FC Tosno (-2018),RU1
+41201,PFK Tambov (-2021),RU1
+41231,FC Sochi,RU1
+41274,Koninklijke Beerschot Voetbalclub Antwerpen,BE1
+44006,Bodrumspor Spor Faaliyetleri Anonim Şirketi,TR1
+48332,FK Kolos Kovalivka,UKR1
+48726,FC Rukh Lviv,UKR1
+49364,FC Ingulets Petrove,UKR1
+49702,FK Nizhny Novgorod,RU1
+53646,FK Polissya Zhytomyr,UKR1
+54189,RWD Molenbeek,BE1
+55686,Metalist 1925 Kharkiv,UKR1
+60551,SC Dnipro-1,UKR1
+60949,Volou Neos Podosferikos Syllogos,GR1
+61825,FC Minaj,UKR1
+63007,LNZ Cherkasy,UKR1
+68608,CF Os Belenenses,PO1
+71985,Akron Togliatti,RU1
+75231,Dinamo Makhachkala,RU1
+83678,Metalist Kharkiv,UKR1
+85465,FK Karpaty Lviv,UKR1
+86209,FK Livyi Bereh,UKR1
+110302,Avs - Futebol SAD,PO1
