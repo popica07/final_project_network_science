@@ -3,13 +3,13 @@
 This repository contains the **Final Project for the Network Science course** at **Maastricht University**.  
 The project applies network science techniques to analyze professional football data, focusing on **player mobility**, **club connectivity**, and the **evolution of the transfer market** over more than two decades.
 
-## 👥 Authors
+## Authors
 - **Popa Ștefan-Andrei**
 - **Eduard Levinschi**
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Professional football forms a complex system where clubs and players interact through transfers across leagues and countries.  
 In this project, we model football as a networked system to uncover **structural, temporal, and economic patterns** that are not visible through traditional analysis.
@@ -27,7 +27,7 @@ We construct and analyze **two complementary networks**:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ├── Code/
 │ └── clean_data.py # Data cleaning and preprocessing scripts
 │
@@ -49,7 +49,7 @@ We construct and analyze **two complementary networks**:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The original dataset (Kaggle / Transfermarkt) contained multiple CSV files and attributes not relevant to network construction.
 
@@ -64,9 +64,9 @@ Only **players with a valid current club** were kept for the bipartite network.
 
 ---
 
-## 📊 Network Analysis
+## Network Analysis
 
-### 1️⃣ Player–Club Bipartite Network
+###  Player–Club Bipartite Network
 - Nodes: players and clubs
 - Edges: affiliation between a player and their most recent club
 - Size:
@@ -82,7 +82,7 @@ Main findings:
 
 ---
 
-### 2️⃣ Directed Club–Club Transfer Network
+###  Directed Club–Club Transfer Network
 - Nodes: clubs
 - Directed edges: transfers between clubs
 - Edge weight: number of players transferred
@@ -106,7 +106,7 @@ Temporal analysis (5-year windows) reveals:
 
 ---
 
-## 📈 Why Certain Metrics Were Not Used
+## Why Certain Metrics Were Not Used
 
 - **Clustering coefficient** is not meaningful for bipartite graphs (no triangles by definition)
 - Directed transfer networks rarely form triangular motifs in practice
@@ -114,7 +114,7 @@ Temporal analysis (5-year windows) reveals:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Sparse transfer data in early periods (2002–2010)
 - Youth academy movements may introduce minor noise
@@ -124,7 +124,7 @@ These limitations are acknowledged and discussed in the report.
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 Potential extensions include:
 - Dynamic multilayer networks with yearly snapshots
@@ -134,7 +134,7 @@ Potential extensions include:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - pandas
@@ -146,7 +146,7 @@ Potential extensions include:
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 - **Final Project Report**: detailed methodology, analysis, and results  
 - **Presentation**: summarized findings and visualizations  
@@ -154,7 +154,7 @@ Potential extensions include:
 
 ---
 
-## 🎓 Course Context
+## Course Context
 
 This project was completed as part of the **Network Science** course at  
 **Maastricht University**, Faculty of Science and Engineering.
